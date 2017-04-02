@@ -7,6 +7,18 @@ body {
 	font-family: 'Open Sans';
 }
 
+header {
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border: 1px solid #000000;
+	margin: 14px auto;
+	width: 1000px;
+	height: 108px;
+	background: #8D93A3;
+}
+
 header h1 {
 	color: #FF0000;
 }
