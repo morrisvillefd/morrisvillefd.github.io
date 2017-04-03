@@ -48,21 +48,22 @@ header h4 span.addr {
 }
 
 main {
-	border: 1px solid #DEDEDE;
+	border: 1px solid #000000;
 	border-top: 0px;
 	border-bottom: 0px;
 	margin: 0px auto;
 	padding: 14px 0px;
 	width: 1000px;
-	height: 60px;
+	background-color: #ffffff;
 }
 
 footer {
+	background: #DEDEDE;
 	border-top-left-radius: 0px;
 	border-top-right-radius: 0px;
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 20px;
-	border: 1px solid #DEDEDE;
+	border: 1px solid #000000;
 	margin: 14px auto;
 	margin-top: 0px;
 	padding: 14px 0px;
