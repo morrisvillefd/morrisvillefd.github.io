@@ -8,8 +8,8 @@ body {
 }
 
 header {
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
 	border-bottom-left-radius: 0px;
 	border-bottom-right-radius: 0px;
 	border: 1px solid #000000;
@@ -59,8 +59,8 @@ main {
 footer {
 	border-top-left-radius: 0px;
 	border-top-right-radius: 0px;
-	border-bottom-left-radius: 15px;
-	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
 	border: 1px solid #DEDEDE;
 	margin: 14px auto;
 	padding: 14px 0px;
