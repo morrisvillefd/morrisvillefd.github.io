@@ -16,19 +16,19 @@ header {
 	margin: 14px auto;
 	margin-bottom: 0px;
 	padding: 14px 0px;
-	width: 1000px;
+	width: 85%;
 	height: 108px;
 	background: #DEDEDE;
 }
 
 header h1 {
 	color: #FF0000;
-	width: 425px;
+	width: 40%;
 	display: inline-block;
 }
 
 header h4 {
-	width: 480px;
+	width: 40%;
 	display: inline-block;
 	text-align: right;
 }
@@ -71,6 +71,6 @@ footer {
 	margin: 14px auto;
 	margin-top: 0px;
 	padding: 14px 0px;
-	width: 1000px;
+	width: 85%;
 	height: 48px;
 }
